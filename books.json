@@ -1,0 +1,32 @@
+{ "library" : [
+    {"id": "1", 
+    "title": "Władcy ognia",
+    "author": "Bogusław Wołoszański",
+    "year": 2006,
+    "done": false},
+
+    {"id": "2", 
+    "title": "Harry Potter and goblet of fire",
+    "author": "J.K. Rowling",
+    "year": 2003,
+    "done": false},
+
+    {"id": "3", 
+    "title": "IT",
+    "author": "Stephen King",
+    "year": 1986,
+    "done": false},
+
+    {"id": "4", 
+    "title": "Opowieści z Narnii",
+    "author": "C.S. Lewis",
+    "year": 1993,
+    "done": false},
+
+    {"id": "5", 
+    "title": "Dan Brown",
+    "author": "Inferno",
+    "year": 2011,
+    "done": false}
+  ]    
+}
