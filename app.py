@@ -88,5 +88,6 @@ def update_book(book_id):
 def home():
     return render_template('books.html')
 
+
 if __name__ == "__main__":
     app.run(debug=True)
